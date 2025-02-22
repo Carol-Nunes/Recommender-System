@@ -1,6 +1,6 @@
 # Recommender-System
 
-<h2>Sobre</h2>h2>
+<h2>Sobre</h2>
 
 Este projeto é a resolução do "Desafio de projeto: Sistema de recomendação por imagens " do curso BairesDev - Machine Learning Practitioner.
 
